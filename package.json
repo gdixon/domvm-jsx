@@ -1,0 +1,16 @@
+{
+  "name": "domvm-jsx",
+  "version": "1.0.1",
+  "description": "This package supplies the el function defined in the [Using JSX with domvm wiki](https://github.com/domvm/domvm/wiki/JSX).",
+  "keywords": [
+    "domvm",
+    "jsx"
+  ],
+  "author": "GDixon",
+  "repository": "github:gdixon/domvm-jsx",
+  "main": "lib/el.jsx",
+  "license": "MIT",
+  "dependencies": {
+    "domvm": "^3.3.3"
+  }
+}
